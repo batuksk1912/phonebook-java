@@ -1,2 +1,2 @@
 # phonebook-java
-Phonebook example with hashmap. Please work Test.java on terminal.
+Phonebook example with hashmap. Please execute Test.java on terminal.
